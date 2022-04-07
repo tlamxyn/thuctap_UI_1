@@ -1,0 +1,21 @@
+const Map<String, String> en = {
+  'hello': 'Hello',
+  'home': 'Dashboard',
+  'find_expert': 'Find Expert',
+  'my_portfolio': 'My Portfolio',
+  'accounts': 'Accounts',
+  'wallet': 'Wallet',
+  'member': 'Member',
+  'affiliate_history': 'Affiliate History',
+  'assets': 'Assets',
+  'your_wallet': 'Your Wallet',
+  'history': 'History',
+  'transfer': 'transfer',
+  'withdraw': 'withdraw',
+  'deposit': 'deposit',
+  'token_sales_progress': 'Token Sales Progress',
+  'tokens_sold': 'Tokens sold',
+  'target_number': 'Target number',
+  'recived_buy_token': 'Recived 10% token bonus when buy 5,000 DAK',
+  'recent_ransaction': 'Recent Transaction'
+};
